@@ -7,5 +7,4 @@
 - 🎓 B.S. in Computer Science at Federal University of Goiás (UFG) - Goiânia, Brasil
 - 📚 Specializing in Cybersecurity and Data Governance at PUC Minas - Belo Horizonte, Brazil
 - 🧑‍💻 Working as Software Engineer at Cilia Tecnologia SA
-- 📝 [My resume](https://github.com/arthurdelarge/arthurdelarge/blob/main/Resume.pdf)
-- 📫 How to reach me: arthurcandrade@hotmail.com
+- 📝 [Resume](https://github.com/arthurdelarge/arthurdelarge/blob/main/Resume.pdf)
