@@ -4,7 +4,7 @@
 ### A little about me...
 - 🎯 INTJ
 - 🐣 Mar 2000, Brazil
-- 🎓 B.S. in Computer Science at Federal University of Goiás (UFG) - Goiânia, Brasil
+- 🎓 B.S. in Computer Science at Federal University of Goiás (UFG) - Goiânia, Brazil
 - 📚 Specializing in Cybersecurity and Data Governance at PUC Minas - Belo Horizonte, Brazil
 - 🧑‍💻 Working as Software Engineer at Cilia Tecnologia SA
 - 📝 [Resume](https://github.com/arthurdelarge/arthurdelarge/blob/main/Resume.pdf)
