@@ -11,4 +11,4 @@
 - 💼 Resident in **IT Risk Management** at the Court of Justice of Goiás  
 - 🛠️ Interested in secure software design, clean architecture, and system resilience  
 - 🔍 Bridging development and cybersecurity to build reliable, compliant systems  
-- 📄 [Check out my resume](https://github.com/arthurdelarge/arthurdelarge/blob/main/Resume.pdf)
+- 📄 [Check out my resume](https://github.com/arthurdelarge/arthurdelarge/blob/main/cv_en_ArthurCavalcantedeAndrade.pdf)
