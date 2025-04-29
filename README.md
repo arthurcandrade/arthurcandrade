@@ -6,5 +6,5 @@
 - 🐣 Born in March 2000, Brazil
 - 🎓 B.S. in Computer Science – Federal University of Goiás (UFG)
 - 📚 Postgraduate in **Cybersecurity and Data Governance** and **IT Processes and Management**
-- 🧑‍💻 Currently working with **Software Engineering** and **IT Risk Management**
+- 🧑‍💻 Currently working in **Software Engineering** and **IT Risk Management**
 - 📄 [Check out my resume](https://github.com/arthurdelarge/arthurdelarge/blob/main/cv_en_ArthurCavalcantedeAndrade.pdf)
