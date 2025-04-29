@@ -7,8 +7,5 @@
 - 🎓 B.S. in Computer Science – Federal University of Goiás (UFG)  
 - 📚 Postgraduate in **Cybersecurity and Data Governance** – PUC Minas  
 - 📚 Postgraduate in **IT Processes and Management** – UFG  
-- 🧑‍💻 Working as a **Software Engineer** at Cilia Tecnologia SA, focusing on backend systems with Rails  
-- 💼 Resident in **IT Risk Management** at the Court of Justice of Goiás  
-- 🛠️ Interested in secure software design, clean architecture, and system resilience  
-- 🔍 Bridging development and cybersecurity to build reliable, compliant systems  
+- 🧑‍💻 Currently working with **Software Engineering** and **IT Risk Management**
 - 📄 [Check out my resume](https://github.com/arthurdelarge/arthurdelarge/blob/main/cv_en_ArthurCavalcantedeAndrade.pdf)
