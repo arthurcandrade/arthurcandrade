@@ -4,7 +4,7 @@
 ### Software Engineer | Cybersecurity & Risk | Backend Specialist
 
 - 🐣 Born in March 2000, Brazil
-- 🎓 B.S. in Computer Science – Federal University of Goiás (UFG)
+- 🎓 B.S. in Computer Science - Federal University of Goiás (UFG)
 - 📚 Postgraduate in **Cybersecurity and Data Governance** and **IT Processes and Management**
 - 🧑‍💻 Currently working in **Software Engineering** and **IT Risk Management**
-- 📄 [Check out my resume](https://github.com/arthurdelarge/arthurdelarge/blob/main/cv_ArthurCavalcantedeAndrade.pdf)
+- 📄 About Me: [Website](https://arthurcandrade.github.io/) | [Resume/CV](https://github.com/arthurdelarge/arthurdelarge/blob/main/cv_ArthurCavalcantedeAndrade.pdf)
